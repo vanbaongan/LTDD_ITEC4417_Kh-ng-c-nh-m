@@ -11,4 +11,4 @@
 3. Sau khi đặt cược bằng cách tăng hoặc giảm số lượng tiền đặt cọc cho mỗi một linh vật mà mình đặt, ấn vào xóc để xem kết quả
 4. Người chơi sẽ thắng nếu trong 3 con xúc sắc có suất hiện linh vật mà mình đặt, và tiền thưởng sẽ được tính theo mức mà người chơi đặt để xem sẽ thắng hay là lỗ
 5. Nếu người chơi lỗ không còn tiền, hãy trở lại menu chính chọn _**Suport**_ và chọn _**Resert**_, người chơi sẽ được tặng lại 3000. Lưu ý chỉ có thua mới xuât hiện _**Resert**_ thôi.
-Link tải:  <a href="https://drive.google.com/open?id=1RLZYV_Yd79n676XbVyRzTBiIJKaDboi7">Link</a>
+
